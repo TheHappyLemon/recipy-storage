@@ -1,0 +1,2 @@
+class KeywordsNotFoundError(Exception):
+    pass
